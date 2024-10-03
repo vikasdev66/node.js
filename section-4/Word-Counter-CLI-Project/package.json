@@ -1,0 +1,15 @@
+{
+  "name": "word-count-vikasdev66",
+  "version": "0.0.2",
+  "description": "A simple CLI tool to count words",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "word-count-vikasdev66": "index.js"
+  },
+  "author": "Vikas Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "word-count-vikasdev66": "^0.0.1"
+  }
+}

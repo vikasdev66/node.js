@@ -1,0 +1,12 @@
+5:25:59 PM : ENOENT: no such file or directory, open 'G:\nodeJS\section-4\writing-to-a-file-using-nodejs\nodejs.png' 
+    Error: ENOENT: no such file or directory, open 'G:\nodeJS\section-4\writing-to-a-file-using-nodejs\nodejs.png'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1249:14)
+    at async file:///G:/nodeJS/section-4/writing-to-a-file-using-nodejs/index.js:19:25
+
+5:26:04 PM : ENOENT: no such file or directory, open 'G:\nodeJS\section-4\writing-to-a-file-using-nodejs\nodejs.png' 
+    Error: ENOENT: no such file or directory, open 'G:\nodeJS\section-4\writing-to-a-file-using-nodejs\nodejs.png'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1249:14)
+    at async file:///G:/nodeJS/section-4/writing-to-a-file-using-nodejs/index.js:19:25
+
